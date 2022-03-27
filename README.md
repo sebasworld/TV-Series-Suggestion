@@ -1,5 +1,3 @@
-Python application which gets information of the most popular TV series of all time from IMDB top charts and randomly suggests one to the user.
-
 The main.py is afterwards containerized using Docker.
 
 To run the code, you must have Docker installed on your machine.
